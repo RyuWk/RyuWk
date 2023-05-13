@@ -1,6 +1,7 @@
 ## Olá! Me chamo Ryu 
-- Hoje sou apenas um estudante de python, especificamente selenium para automação e um pouco de django para web
-- Planejo trabalhar com Back-End
+- 🐍 Hoje sou apenas um estudante de python, especificamente Selenium/PyAutoGUI para automação e um pouco de Django para web
+- 📚 Sou apaixonado por problemas de matemática e lógica de modo geral
+- 🤖 Atualmente aprimorando o Django e fazendo bots ou automações
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyuWK&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
